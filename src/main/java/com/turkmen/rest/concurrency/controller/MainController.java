@@ -1,6 +1,7 @@
 package com.turkmen.rest.concurrency.controller;
 
 
+import com.turkmen.rest.concurrency.kotlin.KotlinBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.turkmen.rest.concurrency.controller
+package com.turkmen.rest.concurrency.kotlin
 
 import org.springframework.stereotype.Component
 import java.util.concurrent.Callable
